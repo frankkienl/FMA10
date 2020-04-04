@@ -21,12 +21,5 @@
         <meta-data
             android:name="xposedminversion"
             android:value="82" />
-
-        <activity android:name=".DemoActivity">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-                <category android:name="android.intent.category.DEFAULT" />
-            </intent-filter>
-        </activity>
     </application>
 </manifest>
